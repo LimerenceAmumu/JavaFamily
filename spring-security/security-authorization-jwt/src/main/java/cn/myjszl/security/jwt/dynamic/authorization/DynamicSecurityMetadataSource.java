@@ -14,7 +14,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 动态权限数据源，主要功能是根据请求的url从数据库中查询出这个url所需要的角色集合
  */
 @Component

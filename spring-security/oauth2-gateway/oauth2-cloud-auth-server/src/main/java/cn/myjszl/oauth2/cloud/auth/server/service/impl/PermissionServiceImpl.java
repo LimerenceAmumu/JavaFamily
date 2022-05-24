@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  */
 @Service
 public class PermissionServiceImpl implements PermissionService {

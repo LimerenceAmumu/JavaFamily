@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 结果封装类
  */
 public class ResponseUtils {

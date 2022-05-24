@@ -10,9 +10,9 @@ jwt:
 spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/spring-security?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowMultiQueries=true&serverTimezone=Asia/Shanghai
-    username: root
-    password: Nov2014
+    url: jdbc:mysql://122.51.174.150:3306/spring-security?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+    username: spring-security
+    password: sJdLSkcBzTz7faEz
   jpa:
     show-sql: true # 默认false，在日志里显示执行的sql语句
     database: mysql

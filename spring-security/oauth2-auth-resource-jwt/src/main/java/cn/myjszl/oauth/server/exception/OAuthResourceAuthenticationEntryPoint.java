@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  *
  * TOKEN失效或者校验失败的处理器
  */

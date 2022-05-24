@@ -9,7 +9,7 @@ import org.springframework.security.oauth2.common.exceptions.UnsupportedGrantTyp
 import org.springframework.security.oauth2.provider.error.WebResponseExceptionTranslator;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 自定义异常翻译器，针对用户名、密码异常，授权类型不支持的异常进行处理
  */
 @SuppressWarnings("ALL")

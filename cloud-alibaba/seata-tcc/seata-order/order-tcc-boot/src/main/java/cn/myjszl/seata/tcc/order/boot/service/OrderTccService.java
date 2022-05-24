@@ -6,7 +6,7 @@ import io.seata.rm.tcc.api.LocalTCC;
 import io.seata.rm.tcc.api.TwoPhaseBusinessAction;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * TCC的事务模型
  */
 @LocalTCC

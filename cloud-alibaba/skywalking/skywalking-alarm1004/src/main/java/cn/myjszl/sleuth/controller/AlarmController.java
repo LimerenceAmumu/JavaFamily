@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * @author 不才陈某  微信公众号：码猿技术专栏
+ * @author 不才陈某  微信  
  */
 @RestController
 @RequestMapping("/alarm")

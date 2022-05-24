@@ -17,7 +17,7 @@ import reactor.core.publisher.Mono;
 import java.nio.charset.Charset;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 自定义返回结果：没有权限访问时
  */
 @Component

@@ -9,7 +9,7 @@ import javax.servlet.http.*;
 import java.util.Objects;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * OAuth2.0工具类，从请求的线程中获取个人信息
  */
 public class OauthUtils {

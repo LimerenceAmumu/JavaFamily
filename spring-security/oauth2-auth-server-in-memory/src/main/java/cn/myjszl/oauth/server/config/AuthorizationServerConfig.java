@@ -19,7 +19,7 @@ import org.springframework.security.oauth2.provider.token.DefaultTokenServices;
 import org.springframework.security.oauth2.provider.token.TokenStore;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 认证中心的配置
  * `@EnableAuthorizationServer`：这个注解标注这是一个认证中心
  * 继承AuthorizationServerConfigurerAdapter
@@ -60,11 +60,11 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
                 //资源id，唯一，比如订单服务作为一个资源,可以设置多个
                 .resourceIds("res1")
                 //授权模式，总共四种，1. authorization_code（授权码模式）、password（密码模式）、client_credentials（客户端模式）、implicit（简化模式）
-                //refresh_token并不是授权模式，
+                //refresh_token并不是授权模式，定义这个表示认证中心支持令牌刷新
                 .authorizedGrantTypes("authorization_code","password","client_credentials","implicit","refresh_token")
                 //允许的授权范围，客户端的权限，这里的all只是一种标识，可以自定义，为了后续的资源服务进行权限控制
                 .scopes("all")
-                //false 则跳转到授权页面
+                //false 则跳转到授权页面;是否需要授权，设置为true则不需要用户点击确认授权直接返回授权码
                 .autoApprove(false)
                 //授权码模式的回调地址
                 .redirectUris("http://www.baidu.com");

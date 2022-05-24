@@ -19,7 +19,7 @@ import org.springframework.security.web.server.authentication.AuthenticationWebF
 import org.springframework.security.web.server.authorization.AuthorizationContext;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 网关的OAuth2.0资源的配置类
  * 由于spring cldou gateway使用的Flux，因此需要使用@EnableWebFluxSecurity注解开启，而不是平常的web应用了
  */

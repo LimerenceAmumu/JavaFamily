@@ -1,7 +1,7 @@
 package cn.myjszl.oauth.server.model;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 响应码、提示信息
  */
 public enum ResultCode {

@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 在项目启动时从数据库中将url->角色对应关系加载到Redis中
  */
 @Service

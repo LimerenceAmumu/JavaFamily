@@ -18,7 +18,7 @@ import java.io.IOException;
 
 /**
  * 登录成功操作
- * @author 公众号：码猿技术专栏
+ * @author   
  */
 @Component
 @Slf4j

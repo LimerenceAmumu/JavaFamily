@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFamily.iml" filepath="$PROJECT_DIR$/.idea/JavaFamily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/middleware/canal-mq-boot/canal-mq-boot.iml" filepath="$PROJECT_DIR$/spring-security/middleware/canal-mq-boot/canal-mq-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/cloud-alibaba.iml" filepath="$PROJECT_DIR$/cloud-alibaba/cloud-alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud-alibaba/cloud-common/cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/cloud-gateway9023/cloud-gateway9023.iml" filepath="$PROJECT_DIR$/cloud-alibaba/cloud-gateway9023/cloud-gateway9023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/common-base/common-base.iml" filepath="$PROJECT_DIR$/spring-security/common-base/common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/common-storage/common-storage.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/common-storage/common-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-provider9024/gateway-provider9024.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-provider9024/gateway-provider9024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-sentinel9026/gateway-sentinel9026.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-sentinel9026/gateway-sentinel9026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-sleuth9031/gateway-sleuth9031.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-sleuth9031/gateway-sleuth9031.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-swagger/gateway-swagger.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-swagger/gateway-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/middleware/middleware.iml" filepath="$PROJECT_DIR$/spring-security/middleware/middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/nacos-config-share9004/nacos-config-share9004.iml" filepath="$PROJECT_DIR$/cloud-alibaba/nacos-config-share9004/nacos-config-share9004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/nacos-config9003/nacos-config9003.iml" filepath="$PROJECT_DIR$/cloud-alibaba/nacos-config9003/nacos-config9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/nacos-consumer9002/nacos-consumer9002.iml" filepath="$PROJECT_DIR$/cloud-alibaba/nacos-consumer9002/nacos-consumer9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/nacos-provider9001/nacos-provider9001.iml" filepath="$PROJECT_DIR$/cloud-alibaba/nacos-provider9001/nacos-provider9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-auth-resource-in-memory/oauth2-auth-resource-in-memory.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-auth-resource-in-memory/oauth2-auth-resource-in-memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-auth-resource-jwt/oauth2-auth-resource-jwt.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-auth-resource-jwt/oauth2-auth-resource-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-auth-server-in-memory/oauth2-auth-server-in-memory.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-auth-server-in-memory/oauth2-auth-server-in-memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-auth-server-jwt/oauth2-auth-server-jwt.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-auth-server-jwt/oauth2-auth-server-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-auth-common/oauth2-cloud-auth-common.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-auth-common/oauth2-cloud-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-auth-server/oauth2-cloud-auth-server.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-auth-server/oauth2-cloud-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-gateway/oauth2-cloud-gateway.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-gateway/oauth2-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-order-service/oauth2-cloud-order-service.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-order-service/oauth2-cloud-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-product-service/oauth2-cloud-product-service.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-cloud-product-service/oauth2-cloud-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-gateway.iml" filepath="$PROJECT_DIR$/spring-security/oauth2-gateway/oauth2-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/openFeign-consumer9006/openFeign-consumer9006.iml" filepath="$PROJECT_DIR$/cloud-alibaba/openFeign-consumer9006/openFeign-consumer9006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/openFeign-payment-provider9007/openFeign-payment-provider9007.iml" filepath="$PROJECT_DIR$/cloud-alibaba/openFeign-payment-provider9007/openFeign-payment-provider9007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/openFeign-provider9005/openFeign-provider9005.iml" filepath="$PROJECT_DIR$/cloud-alibaba/openFeign-provider9005/openFeign-provider9005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-order/order-tcc-boot/order-tcc-boot.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-order/order-tcc-boot/order-tcc-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/record-api/record-api.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/record-api/record-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/record-boot/record-boot.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/record-boot/record-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-account9021/seata-account9021.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-account9021/seata-account9021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-common.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-dependency/seata-dependency.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-dependency/seata-dependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-order/seata-order.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-order/seata-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-order9022/seata-order9022.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-order9022/seata-order9022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/seata-storage.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/seata-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-storage9020/seata-storage9020.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-storage9020/seata-storage9020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-tcc.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-tcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-tcc-core/seata-tcc-core.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-common/seata-tcc-core/seata-tcc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/seata-transaction-record.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-transaction-record/seata-transaction-record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/security-authentication-jwt/security-authentication-jwt.iml" filepath="$PROJECT_DIR$/spring-security/security-authentication-jwt/security-authentication-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/security-authorization-jwt/security-authorization-jwt.iml" filepath="$PROJECT_DIR$/spring-security/security-authorization-jwt/security-authorization-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/sentinel-openfeign-consumer9010/sentinel-openfeign-consumer9010.iml" filepath="$PROJECT_DIR$/cloud-alibaba/sentinel-openfeign-consumer9010/sentinel-openfeign-consumer9010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/sentinel-openfeign-provider9009/sentinel-openfeign-provider9009.iml" filepath="$PROJECT_DIR$/cloud-alibaba/sentinel-openfeign-provider9009/sentinel-openfeign-provider9009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/sentinel-service9008/sentinel-service9008.iml" filepath="$PROJECT_DIR$/cloud-alibaba/sentinel-service9008/sentinel-service9008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking.iml" filepath="$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-alarm1004/skywalking-alarm1004.iml" filepath="$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-alarm1004/skywalking-alarm1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-gateway1003/skywalking-gateway1003.iml" filepath="$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-gateway1003/skywalking-gateway1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-order1002/skywalking-order1002.iml" filepath="$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-order1002/skywalking-order1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-product1001/skywalking-product1001.iml" filepath="$PROJECT_DIR$/cloud-alibaba/skywalking/skywalking-product1001/skywalking-product1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/sleuth-order9033/sleuth-order9033.iml" filepath="$PROJECT_DIR$/cloud-alibaba/sleuth-order9033/sleuth-order9033.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/sleuth-product9032/sleuth-product9032.iml" filepath="$PROJECT_DIR$/cloud-alibaba/sleuth-product9032/sleuth-product9032.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/spring-security/spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-jasypt/springboot-jasypt.iml" filepath="$PROJECT_DIR$/springboot-jasypt/springboot-jasypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/storage-api/storage-api.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/storage-api/storage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/storage-boot/storage-boot.iml" filepath="$PROJECT_DIR$/cloud-alibaba/seata-tcc/seata-storage/storage-boot/storage-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-gateway/swagger-gateway.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-gateway/swagger-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-order-boot/swagger-order-boot.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-order-boot/swagger-order-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-starter/swagger-starter.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-starter/swagger-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-storage-boot/swagger-storage-boot.iml" filepath="$PROJECT_DIR$/cloud-alibaba/gateway-swagger/swagger-storage-boot/swagger-storage-boot.iml" />
+    </modules>
+  </component>
+</project>

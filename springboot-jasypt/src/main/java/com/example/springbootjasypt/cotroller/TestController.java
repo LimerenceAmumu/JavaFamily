@@ -11,7 +11,7 @@ public class TestController {
     public Person test(){
         Person user = new Person();
 
-        user.setRealName("不才陈某");
+        user.setRealName("mumu");
         user.setPhoneNumber("19796328206");
         user.setAddress("浙江省杭州市温州市....");
         user.setIdCard("4333333333334334333");

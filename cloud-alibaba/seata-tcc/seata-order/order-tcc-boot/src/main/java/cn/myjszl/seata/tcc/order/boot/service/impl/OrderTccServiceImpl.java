@@ -20,7 +20,7 @@ import java.util.Date;
 import java.util.Objects;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 订单的TCC事务模式
  */
 @Service

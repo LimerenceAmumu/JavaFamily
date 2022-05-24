@@ -21,7 +21,7 @@ import org.springframework.security.web.access.intercept.FilterSecurityIntercept
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * @EnableGlobalMethodSecurity 开启权限校验的注解
  */
 @Configuration

@@ -14,7 +14,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 import java.util.LinkedHashMap;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 令牌的配置
  */
 @Configuration

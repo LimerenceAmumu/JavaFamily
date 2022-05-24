@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  *
  * 当认证后的用户访问受保护的资源时，权限不够，则会进入这个处理器
  */

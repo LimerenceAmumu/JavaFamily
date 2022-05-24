@@ -21,7 +21,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * UserDetailsService的实现类，从数据库加载用户的信息，比如密码、角色。。。。
  */
 @Service(value = "jwtTokenUserDetailsServiceV2")

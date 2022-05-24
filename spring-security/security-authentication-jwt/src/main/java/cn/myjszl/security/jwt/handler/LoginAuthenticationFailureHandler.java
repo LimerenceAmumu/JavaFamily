@@ -14,7 +14,7 @@ import java.io.IOException;
 
 /**
  * 登录失败操作
- * @author 公众号：码猿技术专栏
+ * @author   
  */
 @Component
 public class LoginAuthenticationFailureHandler implements AuthenticationFailureHandler {

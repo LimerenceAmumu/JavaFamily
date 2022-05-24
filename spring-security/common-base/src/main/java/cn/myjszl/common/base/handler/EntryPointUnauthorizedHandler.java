@@ -12,8 +12,9 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
- * 用户访问受保护的资源，但是用户没有通过认证则会进入这个处理器
+ * @author   
+ *这个接口当用户未通过认证访问受保护的资源时，
+ * 将会调用其中的commence()方法进行处理，比如客户端携带的token被篡改，因此我们需要自定义一个AuthenticationEntryPoint返回特定的提示信息
  */
 @Component
 @Slf4j

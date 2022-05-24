@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import java.util.Collection;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 动态决策器，根据数据库中查询出来的角色集合和当前登录用户的角色做对比
  */
 @Component

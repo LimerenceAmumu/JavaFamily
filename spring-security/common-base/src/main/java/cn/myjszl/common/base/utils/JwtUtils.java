@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.Map;
 
 /**
- * @author  不才陈某
+ * @author
  * JWT的工具类
  */
 @Component

@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 用于处理客户端想认证出错，包括客户端id、密码错误
  */
 @Component

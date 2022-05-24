@@ -13,5 +13,5 @@ management:
   endpoints:
     web:
       exposure:
-        ## yml文件中存在特殊字符，必须用单引号包含，否则启动报错
+        ## yml文件中存在特殊字符，必须用单引号包含，否则启动报错  在properties中 不加''
         include: '*'

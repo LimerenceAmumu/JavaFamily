@@ -8,7 +8,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenCo
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 令牌的配置
  */
 @Configuration

@@ -50,7 +50,7 @@ public class LoginServiceImpl implements LoginService {
         if (Objects.nonNull(user)){
             SecurityUser securityUser = new SecurityUser();
             securityUser.setUsername(username);
-            //todo 此处为了方便，直接在数据库存储的明文，实际生产中应该存储密文，则这里不用再次加密
+            // 此处为了方便，直接在数据库存储的明文，实际生产中应该存储密文，则这里不用再次加密
             securityUser.setPassword(passwordEncoder.encode(user.getPassword()));
             //查询该用户的角色
             List<UserRole> userRoles = userRoleRepository.findByUserIdAndStatus(user.getUserId(), LoginConstant.USER_ROLE_USED);

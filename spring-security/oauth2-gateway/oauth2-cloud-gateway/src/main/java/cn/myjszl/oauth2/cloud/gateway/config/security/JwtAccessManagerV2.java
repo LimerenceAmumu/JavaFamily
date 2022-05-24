@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 鉴权管理器 用于认证成功之后对用户的权限进行鉴权
  * 第二个版本，集成RBAC，实现动态权限校验
  * 前面文章请看 JwtAccessManager

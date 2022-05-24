@@ -11,7 +11,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 用于实现令牌信息中继
  */
 @Component

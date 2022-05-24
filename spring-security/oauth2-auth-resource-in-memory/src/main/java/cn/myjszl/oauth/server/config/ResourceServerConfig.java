@@ -10,7 +10,7 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Res
 import org.springframework.security.oauth2.provider.token.RemoteTokenServices;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * OAuth2.0 资源服务的配置类
  * `@EnableResourceServer`：该注解标记这是一个资源服务
  * `@EnableGlobalMethodSecurity`：该注解开启注解校验权限

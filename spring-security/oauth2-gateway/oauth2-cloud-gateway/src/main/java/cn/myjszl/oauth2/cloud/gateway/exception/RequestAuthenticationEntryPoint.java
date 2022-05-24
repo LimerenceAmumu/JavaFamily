@@ -17,7 +17,7 @@ import reactor.core.publisher.Mono;
 import java.nio.charset.Charset;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 用于处理没有登录或token过期时的自定义返回结果
  */
 @Component

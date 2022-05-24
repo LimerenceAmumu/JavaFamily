@@ -23,7 +23,7 @@ import org.springframework.security.oauth2.provider.token.TokenStore;
 import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  * 认证中心的配置
  * `@EnableAuthorizationServer`：这个注解标注这是一个认证中心
  * 继承AuthorizationServerConfigurerAdapter

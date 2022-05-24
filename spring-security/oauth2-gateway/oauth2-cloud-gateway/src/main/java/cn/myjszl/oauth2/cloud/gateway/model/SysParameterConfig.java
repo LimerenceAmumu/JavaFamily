@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import java.util.List;
 
 /**
- * @author  公众号：码猿技术专栏
+ * @author    
  */
 @ConfigurationProperties(prefix = "oauth2.cloud.sys.parameter")
 @Data

@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import java.util.Objects;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 从数据库中根据用户名查询用户的详细信息，包括权限
  *
  * 数据库设计：角色、用户、权限、角色<->权限、用户<->角色 总共五张表，遵循RBAC设计

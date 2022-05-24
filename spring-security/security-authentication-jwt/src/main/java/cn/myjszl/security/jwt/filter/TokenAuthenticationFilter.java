@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 校验token的过滤器，直接获取header中的token进行校验，
  */
 public class TokenAuthenticationFilter extends OncePerRequestFilter {

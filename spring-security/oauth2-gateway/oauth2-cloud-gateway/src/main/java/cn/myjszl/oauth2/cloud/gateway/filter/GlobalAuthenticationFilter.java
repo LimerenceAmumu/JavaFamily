@@ -32,7 +32,7 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 /**
- * @author 公众号：码猿技术专栏
+ * @author   
  * 全局过滤器，对token的拦截，解析token放入header中，便于下游微服务获取用户信息
  * 分为如下几步：
  *  1、白名单直接放行
